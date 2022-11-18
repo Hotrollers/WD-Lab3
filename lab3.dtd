@@ -1,0 +1,14 @@
+ <?xml version="1.0"?>
+<!DOCTYPE Photography [
+
+<!ELEMENT data (name,email,phone,birthday,pic,genre,rating)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT birthday (#PCDATA)>
+<!ELEMENT pic (#PCDATA)>
+<!ELEMENT desc (#PCDATA)>
+<!ELEMENT genre (#PCDATA)>
+<!ELEMENT rating (#PCDATA)>
+
+]>

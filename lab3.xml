@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="lab3.xsl"?>
+
+<review>
+<data>
+<name> Kenneth Louis Alvares</name>
+<email>kennethalvares@gmail.com</email>
+<phone>9100583274</phone>
+<birthday>01-12-2001</birthday>
+<pic>a.jpg</pic>
+<desc>asdasd</desc>
+<genre>vehicles</genre>
+<rating>⭐⭐⭐⭐</rating>
+</data>
+
+<data>
+<name>Aditya Palamittam</name>
+<email>adi123@gmail.com</email>
+<phone>910000000</phone>
+<birthday>27-09-2001</birthday>
+<pic>b.jpg</pic>
+<desc>asd</desc>
+<genre>night</genre>
+<rating>⭐⭐⭐⭐</rating>
+</data>
+
+<data>
+<name>Kevin Benny </name>
+<email>kevbenny@gmail.com</email>
+<phone>910055001</phone>
+<birthday>23-06-2001</birthday>
+<pic>c.jpg</pic>
+<desc>asdasd</desc>
+<genre>day</genre>
+<rating>⭐⭐⭐⭐</rating>
+</data>
+
+<data>
+<name>Celeste </name>
+<email>cel@gmail.com</email>
+<phone>910000002</phone>
+<birthday>01-11-2000</birthday>
+<pic>d.jpg</pic>
+<desc>asdaaaassd</desc>
+<genre>planes</genre>
+<rating>⭐⭐⭐</rating>
+</data>
+
+<data>
+<name>Pugal </name>
+<email>pug@gmail.com</email>
+<phone>910000004</phone>
+<birthday>22-01-2001</birthday>
+<pic>e.jpg</pic>
+<desc>asdqeqwqqeqweqweasd</desc>
+<genre>portrait</genre>
+<rating>⭐⭐⭐⭐</rating>
+</data>
+
+<data>
+<name>Jass </name>
+<email>jass@gmail.com</email>
+<phone>910000981</phone>
+<birthday>20-05-2001</birthday>
+<pic>f.jpg</pic>
+<desc>asdaZXsd</desc>
+<genre>mountains</genre>
+<rating>⭐⭐⭐</rating>
+</data>
+
+<data>
+<name>Roy </name>
+<email>roy@gmail.com</email>
+<phone>9100000541</phone>
+<birthday>23-12-2001</birthday>
+<pic>g.jpg</pic>
+<desc>asdasdadasdaddsd</desc>
+<genre>day</genre>
+<rating>⭐⭐</rating>
+</data>
+
+</review>

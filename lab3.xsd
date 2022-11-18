@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+<xs:element name="data">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="name" type="xs:string"/>
+      <xs:element name="email" type="xs:string"/>
+      <xs:element name="phone" type="xs:integer"/>
+      <xs:element name="birthday" type="xs:date"/>
+      <xs:element name="pic" type="xs:anyURI"/>
+      <xs:element name="desc" type="xs:string"/>
+      <xs:element name="genre" type="xs:string"/>
+      <xs:attribute name="rating" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:element>
+
+</xs:schema>
